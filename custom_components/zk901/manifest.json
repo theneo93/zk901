@@ -1,0 +1,14 @@
+{
+  "domain": "zk901",
+  "name": "ZK901 local integration",
+  "version": "3.2.1",
+  "documentation": "https://github.com/theneo93/zk901/",
+  "dependencies": [],
+  "codeowners": [
+    "@rospogrigio", "@postlund"
+  ],
+  "issue_tracker": "https://github.com/theneo93/zk901/issues",
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "local_push"
+}

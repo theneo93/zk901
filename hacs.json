@@ -1,0 +1,6 @@
+{
+  "name": "ZK901 Vacuum local integration",
+  "domains": ["vacuum"],
+  "homeassistant": "0.116.0",
+  "iot_class": ["Local Push"]
+}
